@@ -2,7 +2,7 @@
 Learning HTTP and SOCKS5 protocols
 
 # Install necessary libraries:
-pip3 -r install requirements.txt
+pip3 install -r requirements.txt
 
 # Recommendation
 Start a server on your pc and run wiresharks on the loopback interface so you
